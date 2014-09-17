@@ -16,5 +16,6 @@ public class ES_0917_AplicaçãoGitHub {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Vento vem de roxo quando pinta a inconsciência do Javali!");
+        int x=1;
     }
 }
